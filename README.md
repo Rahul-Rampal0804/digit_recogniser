@@ -6,3 +6,5 @@ guys open this desktop folder , you will get the python file required, thats it 
 
 
 THIS IS SMALLEST AND BEST PERFORMING DIGIT RECOGNISER YOU WILL EVER FIND, SO CODE IS EASY TO UNDERSTAND, HOPE YOU FIND IT HELPFUL.
+
+
